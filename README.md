@@ -32,6 +32,7 @@ This repository contains a **Gradient Boosting Machine Learning model** that pre
 
 ## File Structure 
 - For every race the end of the file will be numbered in correlation to the race on the calendar, ex. prediction1 - Australia, prediction2 - China, etc.
+- 2025 Season calender --> Australia, China, Japan, Bahrain, Saudi Arabia, Miami, Emilia-Romagna, Monaco, Spain, Canada, Austria, Great Britain, Belgium, Hungary, Netherlands, Italy, Azerbaijan, Singapore, United States, Mexico, Brazil, Las Vegas, Qatar, Abu Dhabi
 
 ## 🔧 Usage
 Run the prediction script:
